@@ -1,0 +1,3 @@
+[submodule "nginx-rtmp-docker"]
+	path = nginx-rtmp-docker
+	url = git@github.com:tiangolo/nginx-rtmp-docker.git
